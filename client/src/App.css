@@ -1,0 +1,12 @@
+.App {
+  text-align: left;
+}
+
+Form {
+  outline: 2px solid black;
+  padding: 20px;
+}
+
+Button {
+  margin-top: 10px;
+}
